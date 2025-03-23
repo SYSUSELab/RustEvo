@@ -1,8 +1,4 @@
 """
-TODO:
-- Chinese comments need to be translated into English
-- data structures require adding doc, example(still need to be added)
-
 Rust官方仓库API变更检测
 
 执行流程：
