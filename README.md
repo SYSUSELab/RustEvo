@@ -13,8 +13,9 @@ Phase II: RustEvo² Construction - We transform the collected API evolution data
 
 The following figure illustrates our two-phase framework:
 <div align="center">
-  <img src="Imgs/overview.pdf" width="50%"/>
+  <img src="Imgs/overview.png" alt="RustEvo² Framework Overview" width="100%"/>
 </div>
+
 
 
 ### Dataset Format
